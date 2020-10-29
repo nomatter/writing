@@ -22,13 +22,13 @@ title: _nomatter
 email: nomatter.me@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   L'optimisation prémature est une mauvaise idée
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/writing" # the subpath of your site, e.g. /blog
+url: "https://nomatter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _nomatter
 github_username:  nomatter
 
 # Build settings
-theme: minima
+# theme: minima
 # plugins:
 #   - jekyll-feed
 
