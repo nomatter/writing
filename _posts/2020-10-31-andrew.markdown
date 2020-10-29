@@ -128,7 +128,9 @@ Il se tient le poignet d'une main ferme. Celui-ci s'est remis à saigner comme l
 
 Andrew se jette alors sur l'homme comme un bête affamée tandis que le père rentre dans la maison et ferme doucement la porte derrière lui.
 
-> Tu en laisseras un peu pour ton père Andrew! Ne garde pas cette grosse friandise pour toi tout seul s'il te plait! Sinon tu risques d'avoir un mal au ventre demain. Un père attentionné quel que soit le moment.
+> Tu en laisseras un peu pour ton père Andrew! Ne garde pas cette grosse friandise pour toi tout seul s'il te plait! Sinon tu risques d'avoir un mal au ventre demain.
+
+Un père attentionné quel que soit le moment.
 
 Cette soirée d'Halloween on entendit brièvement un hurlement étouffé suivi d'un craquement d'os, au même moment que la mort avec sa faux ne rentre dans une maison.
 
