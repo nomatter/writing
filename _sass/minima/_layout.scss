@@ -229,6 +229,14 @@
 .post-content {
   margin-bottom: $spacing-unit;
 
+  // Reading comfort for long-form French prose
+  p {
+    text-align: justify;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+  }
+
   h2 {
     @include relative-font-size(2);
 
