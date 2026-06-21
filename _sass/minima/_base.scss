@@ -94,7 +94,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: $base-font-weight;
+  font-weight: 600;
   font-family: $title-font-family;
 }
 
@@ -130,10 +130,10 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: $grey-color;
-  border-left: 4px solid $grey-color-light;
+  color: $text-color;
+  border-left: 2px solid rgba($brand-color, 0.35);
   padding-left: $spacing-unit / 2;
-  font-style: italic;
+  font-style: normal;
 
   > :last-child {
     margin-bottom: 0;
